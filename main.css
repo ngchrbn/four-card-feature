@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* global */
+html {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+}
+h1, h3 {
+    color: hsl(234, 12%, 34%);
+}
+h1 {
+    font-weight: 600;
+}
+h3 {
+    font-weight: 200;
+}
+.container {
+    padding: 2em;
+    text-align: center;
+}
+
+/* main styles */
+.main {
+    padding-top: 2.3em;
+    width: 540px;
+    margin: auto;
+    margin-bottom: 2.4em;
+}
+
+.main p {
+    margin-top: 1em;
+    font-size: 1.15em;
+    line-height: 1.7em;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%);
+}
+.main h1, h3 {
+    font-size: 2.73333em;
+}
