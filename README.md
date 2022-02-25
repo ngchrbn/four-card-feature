@@ -2,7 +2,8 @@
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Project structure and Documentation](./STRUCTURE.md)
+[Project Structure and Documentation](./STRUCTURE.md)
+[Style Guide](./style-guide.md)
 
 ## Table of contents
 
